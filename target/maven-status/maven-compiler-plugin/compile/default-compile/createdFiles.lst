@@ -1,0 +1,7 @@
+com/bluelight/Config/OAuth2Config.class
+com/bluelight/repository/UserRepository.class
+com/bluelight/Controller/DemoController.class
+com/bluelight/services/UserService.class
+com/bluelight/App/App.class
+com/bluelight/model/User.class
+com/bluelight/model/Role.class
